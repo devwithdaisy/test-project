@@ -1,1 +1,1 @@
-export const backend_url = "http://localhost:8000/api";
+export const backend_url = "https://test-project-api-tawny.vercel.app/api";
